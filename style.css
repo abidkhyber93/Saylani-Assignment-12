@@ -1,0 +1,39 @@
+*{
+    background-color: burlywood;
+    text-align: center;
+}
+li{
+    list-style: none;
+    font-size: 2em;
+    text-align: left;
+}
+#message{
+    font-style: bold;
+    font-size: 1.5em;
+    background-color: white;
+    border-radius: 5px;
+    width: 90%;
+}
+#submit{
+    border-radius: 10px 0 10px 0;
+    font-size: 2em;
+    background-color: chocolate;
+    cursor: pointer;
+}
+
+#submit:hover{
+    background-color: crimson;
+}
+button{
+    border-radius: 5px;
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    width: 60px;
+    height: 30px;
+}
+
+button:hover{
+    background-color:  crimson;
+    border-radius: 10px 0px 10px 0px;
+}
